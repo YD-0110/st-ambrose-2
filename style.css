@@ -1,0 +1,23 @@
+.church_mainDiv{
+    border: 1px solid lightgrey;
+}
+
+.church_mainDiv h5 , .church_mainDiv p{
+    margin: 20px;
+}
+
+.library_mainDiv{
+    border: 1px solid lightgrey;
+}
+
+.library_mainDiv h5 , .church_mainDiv p{
+    margin: 20px;
+}
+
+.classroom_mainDiv{
+    border: 1px solid lightgrey;
+}
+
+.classroom_mainDiv h5 , .church_mainDiv p{
+    margin: 20px;
+}
